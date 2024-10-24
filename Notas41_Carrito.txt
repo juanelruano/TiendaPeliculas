@@ -1,0 +1,13 @@
+Nota41_carrito de compras
+1)carritoControler
+	function add, remove, delete
+
+2)Ver producto
+	
+3)Aumentar las unidades del carrito
+4)listar elementos del carrito
+	carritoController ---index
+	crear un tabla con los elementos
+
+5)crear en index y en style class="img_carrito"
+
